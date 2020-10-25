@@ -1,5 +1,6 @@
 # esx_bikerjob
- esx_bikerjob Dutch
+ esx_bikerjob Czech
+ Počeštěná verze scriptu
 
  # fxserver-esx_policejob
 FXServer ESX Police Job
