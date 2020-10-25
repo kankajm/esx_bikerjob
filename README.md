@@ -1,6 +1,7 @@
 # esx_bikerjob
  esx_bikerjob Czech
- Počeštěná verze scriptu
+ 
+ počeštěná verze scriptu (proběhla záměna locales/en.lua )
 
  # fxserver-esx_policejob
 FXServer ESX Police Job
